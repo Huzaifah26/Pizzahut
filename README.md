@@ -1,4 +1,5 @@
 This is my first project in SQL and Power Bi.
-I had a great experience and learnt a lot of new things making this project.
-This project is about the Pizza Sales made by a pizza shop named Pizzahut.
-I have done a lot of SQL queries in this project and also prepared a Power Bi dashboard on it.
+In pizza sales project, I analyzed a dataset using SQL to uncover valuable business insights, including total sales revenue, top-selling pizzas, sales trends by day and time, and customer preferences. 
+Using MySQL Workbench, I wrote queries to calculate these metrics, helping to identify peak sales periods, popular pizza varieties, and frequent customer behaviors. 
+After extracting the data insights, I used Power BI to create visualizations that made the data accessible and interactive, with dashboards displaying total sales, popular items, and peak order times.
+This project demonstrated  SQL proficiency for data analysis and Power BI skills for creating compelling visual summaries, offering a comprehensive view of sales performance for decision-making.
